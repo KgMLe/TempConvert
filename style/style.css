@@ -1,0 +1,49 @@
+/* *{
+  font-family: 
+} */
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fc6867;
+  border-radius: 5px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #891520;
+  font-weight: bold;
+}
+
+.input {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.buttons button {
+  padding: 10px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #891520;
+  border: none;
+  border-radius: 5px;
+ 
+}
+
+
